@@ -8,19 +8,13 @@ Both contain codes for two algorithms :- MO-LP and MO-OGDE
 
 Files: 
 
-momab.m		:-	MO-OGDE algorithm
-
-simx.m		:-	Taking a projection to a convex set for forced exploration
-
-dist.m		:-	Cost vector defintions for various companies (Not valid for Synthetic experiment)
-
-molp.m		:-	MO-LP algorithm
-
-momabmodel.m 	:-	Accesses the AMPL API to solve linear programs
-
-molp.mod 	:-	AMPL program to solve the linear program
-
-molp.dat	:-	Parametric data accessed by the molp.mod file
+momab.m		:-	MO-OGDE algorithm <br />
+simx.m		:-	Taking a projection to a convex set for forced exploration <br />
+dist.m		:-	Cost vector defintions for various companies (Not valid for Synthetic experiment) <br />
+molp.m		:-	MO-LP algorithm <br />
+momabmodel.m 	:-	Accesses the AMPL API to solve linear programs <br />
+molp.mod 	:-	AMPL program to solve the linear program <br />
+molp.dat	:-	Parametric data accessed by the molp.mod file <br />
 	
 
 Softwares used:
