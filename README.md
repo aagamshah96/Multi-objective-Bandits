@@ -21,4 +21,4 @@ Softwares used:
 MATLAB and AMPL (for solving linear programs)
 
 
-Project by: Aagam Shah (201464155) & Kushagra Chandak (201464106)
+Project by: Aagam Shah & Kushagra Chandak
